@@ -29,3 +29,4 @@ jobs:
           name: ./artifacts/hello-artifact
       - name: cat file
         run: cat ./artifacts/hello.txt
+        
